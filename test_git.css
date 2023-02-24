@@ -7,7 +7,7 @@ p{
     font-size: large;
     background-color: aquamarine;
 }
-h1{
+h1,h2{
     color:rgb(255, 153, 0);
     background-color: green;
     font-size: larger;
